@@ -10,11 +10,12 @@ I work as a Systemadministrator and live near Bad Kreuznach in Germany.
 
  ## I work with:
  
- ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000?style=flate&logo=node-red&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)  ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)  ![MQTT Badge](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Tasmota](https://img.shields.io/badge/-Tasmota-1FA3EC?style=flat&logo=tasmota&logoColor=white) ![Shelly](https://img.shields.io/badge/-Shelly-4495D1?style=flat&logo=shelly&logoColor=white)  
+ ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000?style=flate&logo=node-red&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)  ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)  ![MQTT Badge](https://img.shields.io/badge/-MQTT-660066?style=flat&logo=mqtt&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Tasmota](https://img.shields.io/badge/-Tasmota-1FA3EC?style=flat&logo=tasmota&logoColor=white) ![Shelly](https://img.shields.io/badge/-Shelly-4495D1?style=flat&logo=shelly&logoColor=white) 
 
-
-
-## In my Freetime im a Photographer an work with:
+ 
+<br>
+<br>
+## In my freetime I'm a Photographer and work with:
 
 ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
