@@ -16,7 +16,7 @@ I work as a Systemadministrator and live near Bad Kreuznach in Germany.
 
 ## In my Freetime im a Photographer an work with:
 
-![Photoshop](https://img.shields.io/badge/-Adobe Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 
 
 
