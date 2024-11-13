@@ -15,7 +15,8 @@ I work as a Systemadministrator and live near Bad Kreuznach in Germany.
 <br>
 
 -----------------------------------------------------------
-If you want you can donate me a Beer/Tea on Paypal:
+If you found my projects useful, please donate me a Beer/Tea on Paypal. 
+Any amount is greatly appreciated! Thank you !
 
 [![PayPal](https://img.shields.io/badge/PayPal-donate-blue?style=flat&logo=paypal)](https://paypal.me/steitzto)
 
