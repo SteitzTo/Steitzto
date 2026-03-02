@@ -3,7 +3,7 @@
 
 Welcome to my Github Profil. I started here on November 2024.
 
-I'm intressted about some Homeautomation, Node-Red and RaspberryPi.
+I'm intressted about some Homeautomation, Node-Red and RaspberryPi and MagicMirror.
 
 I work as a Systemadministrator and live near Bad Kreuznach in Germany.
 
